@@ -1,15 +1,19 @@
-# Data Analysis
+# Data Analysis  CS301
 
-## Assigned: Tuesday, 28 Feb 2023
+## Assigned: 16 March 2023
 
-## Due: Thursday, 2 March 2023
+## Due: 16 March 2023
 
 ## Project Goals
 
 * To learn how to edit and run code in R.
-* To gain experience working with specific types of code syntax.
-* To gain experience in basic data cleaning and running t-tests.
-* To draw conclusions from t-tests.
+* To learn how to follow an online tutorial to learn new skills.
+* To gain experience working with anova tests and becoming familiar with R code to run statistical tests.
+* To draw conclusions from anova.
+
+## Instructions
+
+Follow the Anova in R tutorial by _Scribbr.com_ using the url [https://www.scribbr.com/statistics/anova-in-r/](https://www.scribbr.com/statistics/anova-in-r/). Place all the code from this tutorial in the source code file, `src/code.r`.
 
 ## Project Code
 
